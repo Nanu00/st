@@ -1,0 +1,6 @@
+diff a/st.h b/st.h	(rejected hunks)
+@@ -120,3 +120,4 @@ extern char *termname;
+ extern unsigned int tabspaces;
+ extern unsigned int defaultfg;
+ extern unsigned int defaultbg;
++extern float alpha;
